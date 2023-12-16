@@ -11,7 +11,7 @@ Install the dependencies.
 ```bash
 pip install -r requirements.txt
 ```
-All dependencies are also declared in the .ipynb files. 
+
 ## Run the Notebook
 
 Download the Jupyter Notebook .ipynb File
